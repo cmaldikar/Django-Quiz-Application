@@ -61,10 +61,6 @@ The Django framework is used in the backend to manage data models, user authenti
 - **Score Viewing:**
   End-users can view their scores upon completing the quiz.
 
-## Database
-
-(Include the database section with relevant images)
-
 ## Conclusion
 
 The Django Quiz Application serves as a robust and customizable solution for educational organizations. It establishes the framework for a feature-rich application that meets the increasing demands of both examiners and examinees. The project is committed to user satisfaction and ongoing improvement.
